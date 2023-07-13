@@ -1,6 +1,9 @@
 # Automating Testing with Gauge and Taiko
 
-Assessment for junior software engineer
+Assessment for junior software engineer\
+\
+registerpage.spec is the specification file found in [specs](specs)\
+registerpage_implementation.js is the test (javascript) file found in [tests](tests)
 
 ## Results (screenshot)
 <b>Scenario 1: Successfully register profile</b>\
