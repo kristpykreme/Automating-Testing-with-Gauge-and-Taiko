@@ -4,7 +4,8 @@ Assessment for junior software engineer\
 \
 registerpage.spec is the specification file found in [specs](specs)\
 registerpage_implementation.js is the test (javascript) file found in [tests](tests)\
-the html report is found in [reports](reports/html-report) and the pdf version is [gauge_report](gauge_report.pdf)
+The html report is found in [reports](reports/html-report) and the pdf version is [gauge_report.pdf](gauge_report.pdf)\
+A documentation of my progess, thinking and strategy can be found in [documentation.pdf](documentation.pdf)
 
 ## Results (screenshots)
 <b>Scenario 1: Successfully register profile</b>\
