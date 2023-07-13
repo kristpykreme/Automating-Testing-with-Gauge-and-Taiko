@@ -7,6 +7,9 @@ registerpage_implementation.js is the test (javascript) file found in [tests](te
 The html report is found in [reports](reports/html-report) and the pdf version is [gauge_report.pdf](gauge_report.pdf)\
 A documentation of my progess, thinking and strategy can be found in [documentation.pdf](documentation.pdf)
 
+## Requirements
+Run `npm install` to install node modules.
+
 ## Results (screenshots)
 <b>Scenario 1: Successfully register profile</b>\
 <img src="/screenshots/success.png" width="500">\
