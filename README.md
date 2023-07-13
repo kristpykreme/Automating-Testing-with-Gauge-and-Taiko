@@ -6,7 +6,7 @@ registerpage.spec is the specification file found in [specs](specs)\
 registerpage_implementation.js is the test (javascript) file found in [tests](tests)\
 the html report is found in [reports](reports/html-report) and the pdf version is [gauge_report](gauge_report.pdf)
 
-## Results (screenshot)
+## Results (screenshots)
 <b>Scenario 1: Successfully register profile</b>\
 <img src="/screenshots/success.png" width="500">\
 <b>Scenario 2: Failure to register profile (invalid phone number)</b>\
