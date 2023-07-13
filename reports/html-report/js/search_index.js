@@ -1,0 +1,1 @@
+var index = {"Tags":{},"Specs":{"Test process to register user profile in ProfilePrint Hub":["specs/registerpage.html"]}};
